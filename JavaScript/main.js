@@ -1,4 +1,3 @@
-
 let newsAccordion = document.getElementById("newsAccordion");
 const xhr =  new XMLHttpRequest();
 xhr.open('GET', 'https://saurav.tech/NewsAPI/top-headlines/category/health/in.json', true);
